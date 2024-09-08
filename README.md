@@ -16,13 +16,17 @@ A bookmark page for what I'm currently working on. This might be a better soluti
 [AGI HQ Tileset JSON](https://pelican-public.s3.amazonaws.com/3dtiles/agi-hq/tileset.json)
 
 
+## CDB ## 
+[osgEarth CDB plugin](https://github.com/gajgeospatial/osgearth_cdb) Common Database Drivers for osgEarth
+
+[osgEarth CDB plugin 2](https://github.com/VisualAwarenessTech/osgearth_cdb) Open Source osgearth CDB support
+
+
 ## GLTF ##
 
 [GLTF Writer](https://github.com/gajgeospatial/osgearth-3.0.0_CDB/blob/7bce4162d87810d7b95eca5e6e5a8a01e9556b2b/src/osgEarthDrivers/gltf/GLTFWriter.h#L4)
 
 [OSG to GLTF](https://github.com/newpeople123/osgGISPlugins/blob/768924e824c64d970915775ef78839fcebb8f127/include/utils/OsgToGltf.h#L483)
-
-
 
 [gltf-to-3dtiles](https://github.com/xuzhusheng/gltf-to-3d-tiles): Python based, convert glTF model to Glb, b3dm or 3d tiles format.
 
