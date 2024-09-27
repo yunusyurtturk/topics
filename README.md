@@ -34,6 +34,10 @@ A bookmark page for what I'm currently working on. This might be a better soluti
 
 - [gltf-to-3dtiles](https://github.com/xuzhusheng/gltf-to-3d-tiles) Python based, convert glTF model to Glb, b3dm or 3d tiles format.
 
+
+## gRPC ## 
+
+
 ## Misc ## 
 
 - [Interoperability](https://github.com/opengeospatial/OGC-ISG-Sprint-Sep-2020/blob/master/Sprint%20Report/20-087_Interoperable_Simulation_and_Gaming_Sprint_Engineering_Report.pdf)
@@ -45,6 +49,8 @@ A bookmark page for what I'm currently working on. This might be a better soluti
 ## osgEarth ##
 
 - [osgEarth Layers](https://docs.osgearth.org/en/latest/layers.html) Explains osgEarth layers
+
+## Websockets ##
 
 - [GDAL Layers](https://docs.osgearth.org/en/latest/gdal.html) Explains how to use GDAL Layers
 
